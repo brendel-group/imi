@@ -1,1 +1,3 @@
-# Scale Alone Does not Improve Mechanistic Interpretability in Vision Models
+---
+permalink: /index.html
+---
