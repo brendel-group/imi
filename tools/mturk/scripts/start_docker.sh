@@ -1,0 +1,1 @@
+docker run -it -v ~/interpretability_comparison:/ic zimmerrol/hae:latest /bin/bash -c "cd /ic/tools/mturk; /bin/bash"

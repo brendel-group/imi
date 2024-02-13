@@ -1,0 +1,1 @@
+All files relevant for either [preparing](data-generation), [analyzing](data-analysis) or [starting](mturk) an experiment

@@ -1,0 +1,9 @@
+--pre
+boto3==1.24.34
+Flask==2.2.1
+imageio==2.19.3
+jupyter==1.0.0
+pandas==1.4.4
+git+https://github.com/zimmerrol/lucent.git@main#egg=torch-lucent
+timm>=0.8
+git+https://github.com/thoklei/open_clip.git@interpretability_comparison#egg=open_clip_torch
